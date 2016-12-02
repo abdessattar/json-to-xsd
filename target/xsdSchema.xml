@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?><schema xmlns:json2xsd="json2xsd" elementFormDefault="qualified" targetNamespace="json2xsd" xmlns="http://www.w3.org/2001/XMLSchema">
+  <element name="json2xsd" type="json2xsd:json2xsd"/>
+  <complexType name="json2xsd">
+    <sequence>
+      <element minOccurs="0" name="1">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1" type="string"/>
+            <element minOccurs="0" name="2" type="string"/>
+            <element minOccurs="0" name="3" type="string"/>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="2">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="decimal"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="string"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="2">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1" type="string"/>
+                  <element minOccurs="0" name="2" type="string"/>
+                  <element minOccurs="0" name="3" type="string"/>
+                  <element minOccurs="0" name="4" type="string"/>
+                  <element minOccurs="0" name="5" type="string"/>
+                  <element minOccurs="0" name="6" type="string"/>
+                  <element minOccurs="0" name="7" type="string"/>
+                  <element minOccurs="0" name="8" type="string"/>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="3">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1" type="string"/>
+                  <element minOccurs="0" name="2" type="string"/>
+                  <element minOccurs="0" name="3" type="string"/>
+                  <element minOccurs="0" name="4" type="string"/>
+                  <element minOccurs="0" name="5" type="string"/>
+                  <element minOccurs="0" name="6" type="string"/>
+                  <element minOccurs="0" name="7" type="string"/>
+                  <element minOccurs="0" name="8" type="string"/>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="3">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="1" type="string"/>
+                                    <element minOccurs="0" name="2" type="string"/>
+                                    <element minOccurs="0" name="3" type="string"/>
+                                    <element minOccurs="0" name="4" type="string"/>
+                                    <element minOccurs="0" name="5" type="string"/>
+                                    <element minOccurs="0" name="6" type="string"/>
+                                    <element minOccurs="0" name="7" type="string"/>
+                                    <element minOccurs="0" name="8" type="string"/>
+                                    <element minOccurs="0" name="9" type="string"/>
+                                    <element minOccurs="0" name="10" type="string"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                              <element minOccurs="0" name="2">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="1" type="string"/>
+                                    <element minOccurs="0" name="2" type="string"/>
+                                    <element minOccurs="0" name="3" type="string"/>
+                                    <element minOccurs="0" name="4" type="string"/>
+                                    <element minOccurs="0" name="5" type="string"/>
+                                    <element minOccurs="0" name="6" type="string"/>
+                                    <element minOccurs="0" name="7" type="string"/>
+                                    <element minOccurs="0" name="8" type="string"/>
+                                    <element minOccurs="0" name="9" type="string"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="2">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="string"/>
+                        <element minOccurs="0" name="2">
+                          <complexType>
+                            <sequence>
+                              <element maxOccurs="unbounded" minOccurs="0">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="1" type="string"/>
+                                    <element minOccurs="0" name="2" type="string"/>
+                                    <element minOccurs="0" name="3" type="string"/>
+                                    <element minOccurs="0" name="4" type="string"/>
+                                    <element minOccurs="0" name="5" type="string"/>
+                                    <element minOccurs="0" name="6" type="string"/>
+                                    <element minOccurs="0" name="7" type="string"/>
+                                    <element minOccurs="0" name="8" type="string"/>
+                                    <element minOccurs="0" name="9" type="string"/>
+                                    <element minOccurs="0" name="10" type="string"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="3">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="boolean"/>
+                        <element minOccurs="0" name="2">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="string"/>
+                              <element minOccurs="0" name="5" type="string"/>
+                              <element minOccurs="0" name="6" type="int"/>
+                              <element minOccurs="0" name="7" type="string"/>
+                              <element minOccurs="0" name="8" type="string"/>
+                              <element minOccurs="0" name="9" type="string"/>
+                              <element minOccurs="0" name="10" type="string"/>
+                              <element minOccurs="0" name="11" type="string"/>
+                              <element minOccurs="0" name="12" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="4">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1">
+                          <complexType>
+                            <sequence>
+                              <element maxOccurs="unbounded" minOccurs="0">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="1" type="string"/>
+                                    <element minOccurs="0" name="2" type="string"/>
+                                    <element minOccurs="0" name="3" type="string"/>
+                                    <element minOccurs="0" name="4" type="string"/>
+                                    <element minOccurs="0" name="5" type="string"/>
+                                    <element minOccurs="0" name="6" type="string"/>
+                                    <element minOccurs="0" name="7" type="string"/>
+                                    <element minOccurs="0" name="8" type="string"/>
+                                    <element minOccurs="0" name="9" type="string"/>
+                                    <element minOccurs="0" name="10" type="string"/>
+                                    <element minOccurs="0" name="11" type="string"/>
+                                    <element minOccurs="0" name="12" type="string"/>
+                                    <element minOccurs="0" name="13" type="string"/>
+                                    <element minOccurs="0" name="14" type="string"/>
+                                    <element minOccurs="0" name="15" type="string"/>
+                                    <element minOccurs="0" name="16" type="string"/>
+                                    <element minOccurs="0" name="17" type="string"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="2">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="boolean"/>
+                              <element minOccurs="0" name="2">
+                                <complexType>
+                                  <sequence>
+                                    <element maxOccurs="unbounded" minOccurs="0">
+                                      <complexType>
+                                        <sequence>
+                                          <element minOccurs="0" name="1" type="string"/>
+                                          <element minOccurs="0" name="2" type="string"/>
+                                          <element minOccurs="0" name="3" type="string"/>
+                                          <element minOccurs="0" name="4" type="string"/>
+                                          <element minOccurs="0" name="5" type="string"/>
+                                          <element minOccurs="0" name="6" type="string"/>
+                                          <element minOccurs="0" name="7" type="string"/>
+                                        </sequence>
+                                      </complexType>
+                                    </element>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="3">
+                          <complexType>
+                            <sequence>
+                              <element maxOccurs="unbounded" minOccurs="0">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="1" type="int"/>
+                                    <element minOccurs="0" name="2" type="string"/>
+                                    <element minOccurs="0" name="3" type="string"/>
+                                    <element minOccurs="0" name="4" type="decimal"/>
+                                    <element minOccurs="0" name="5" type="decimal"/>
+                                    <element minOccurs="0" name="6" type="decimal"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="4">
+                          <complexType>
+                            <sequence>
+                              <element maxOccurs="unbounded" minOccurs="0">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="1" type="int"/>
+                                    <element minOccurs="0" name="2" type="string"/>
+                                    <element minOccurs="0" name="3" type="string"/>
+                                    <element minOccurs="0" name="4" type="decimal"/>
+                                    <element minOccurs="0" name="5" type="decimal"/>
+                                    <element minOccurs="0" name="6" type="decimal"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="5">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1">
+                          <complexType>
+                            <sequence>
+                              <element maxOccurs="3" minOccurs="3">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="0" type="int"/>
+                                    <element minOccurs="0" name="1" type="decimal"/>
+                                    <element minOccurs="0" name="2" type="decimal"/>
+                                    <element minOccurs="0" name="3" type="decimal"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3">
+                          <complexType>
+                            <sequence>
+                              <element maxOccurs="5" minOccurs="5">
+                                <complexType>
+                                  <sequence>
+                                    <element minOccurs="0" name="0" type="int"/>
+                                    <element minOccurs="0" name="1" type="decimal"/>
+                                    <element minOccurs="0" name="2" type="decimal"/>
+                                    <element minOccurs="0" name="3" type="decimal"/>
+                                    <element minOccurs="0" name="4" type="decimal"/>
+                                    <element minOccurs="0" name="5" type="decimal"/>
+                                    <element minOccurs="0" name="6" type="decimal"/>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="4" type="string"/>
+                        <element minOccurs="0" name="5">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="boolean"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="6">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="boolean"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="6">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="string"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="string"/>
+                        <element minOccurs="0" name="5" type="string"/>
+                        <element minOccurs="0" name="6" type="string"/>
+                        <element minOccurs="0" name="7" type="string"/>
+                        <element minOccurs="0" name="8" type="string"/>
+                        <element minOccurs="0" name="9" type="string"/>
+                        <element minOccurs="0" name="10" type="string"/>
+                        <element minOccurs="0" name="11" type="string"/>
+                        <element minOccurs="0" name="12" type="string"/>
+                        <element minOccurs="0" name="13" type="string"/>
+                        <element minOccurs="0" name="14" type="string"/>
+                        <element minOccurs="0" name="15" type="string"/>
+                        <element minOccurs="0" name="16" type="string"/>
+                        <element minOccurs="0" name="17" type="string"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="2">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="decimal"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="string"/>
+                        <element minOccurs="0" name="5" type="string"/>
+                        <element minOccurs="0" name="6">
+                          <simpleType>
+                            <restriction base="string">
+                              <enumeration value="1. δραστηριότητες εκπαίδευσης για την εξασφάλιση περισσότερων και πιο ειδικευμένων ανθρώπινων πόρων"/>
+                              <enumeration value="2. ανεξάρτητη Ε&amp;Α για περισσότερη γνώση και καλύτερη κατανόηση"/>
+                              <enumeration value="3. άλλη"/>
+                            </restriction>
+                          </simpleType>
+                        </element>
+                        <element minOccurs="0" name="7" type="string"/>
+                        <element minOccurs="0" name="8">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="string"/>
+                              <element minOccurs="0" name="5" type="string"/>
+                              <element minOccurs="0" name="6" type="string"/>
+                              <element minOccurs="0" name="7" type="string"/>
+                              <element minOccurs="0" name="8" type="string"/>
+                              <element minOccurs="0" name="9" type="string"/>
+                              <element minOccurs="0" name="10" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="9">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="string"/>
+                              <element minOccurs="0" name="5" type="string"/>
+                              <element minOccurs="0" name="6" type="string"/>
+                              <element minOccurs="0" name="7" type="string"/>
+                              <element minOccurs="0" name="8" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="10">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="string"/>
+                              <element minOccurs="0" name="5" type="string"/>
+                              <element minOccurs="0" name="6" type="string"/>
+                              <element minOccurs="0" name="7" type="string"/>
+                              <element minOccurs="0" name="8" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="11" type="string"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="4">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1" type="string"/>
+            <element minOccurs="0" name="2" type="string"/>
+            <element minOccurs="0" name="3" type="string"/>
+            <element minOccurs="0" name="5">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="0">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="0" type="int"/>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="1" type="boolean"/>
+                  <element minOccurs="0" name="2">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="0" type="int"/>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="3" type="string"/>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="6">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="0" type="int"/>
+                        <element minOccurs="0" name="1" type="string"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="decimal"/>
+                        <element minOccurs="0" name="5" type="decimal"/>
+                        <element minOccurs="0" name="6" type="string"/>
+                        <element minOccurs="0" name="7" type="int"/>
+                        <element minOccurs="0" name="8" type="int"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="7">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="string"/>
+                        <element minOccurs="0" name="2" type="int"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="string"/>
+                        <element minOccurs="0" name="5" type="string"/>
+                        <element minOccurs="0" name="6" type="int"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="8">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="int"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="string"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="9">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="boolean"/>
+                              <element minOccurs="0" name="2" type="boolean"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                        <element minOccurs="0" name="2">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="boolean"/>
+                              <element minOccurs="0" name="2" type="boolean"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="2">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="boolean"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="3">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="boolean"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="5">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="0">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="string"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="string"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="1">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="0">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="18">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                              <element minOccurs="0" name="4" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="1">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="8">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                              <element minOccurs="0" name="4" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="2">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="18">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                              <element minOccurs="0" name="4" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="2">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="2">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="string"/>
+                              <element minOccurs="0" name="2">
+                                <complexType>
+                                  <sequence>
+                                    <element maxOccurs="unbounded" minOccurs="0">
+                                      <complexType>
+                                        <sequence>
+                                          <element minOccurs="0" name="1" type="string"/>
+                                          <element minOccurs="0" name="2" type="string"/>
+                                          <element minOccurs="0" name="3" type="decimal"/>
+                                          <element minOccurs="0" name="4" type="decimal"/>
+                                          <element minOccurs="0" name="5" type="decimal"/>
+                                          <element minOccurs="0" name="6" type="decimal"/>
+                                          <element minOccurs="0" name="7" type="decimal"/>
+                                        </sequence>
+                                      </complexType>
+                                    </element>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                              <element minOccurs="0" name="3">
+                                <complexType>
+                                  <sequence>
+                                    <element maxOccurs="unbounded" minOccurs="0">
+                                      <complexType>
+                                        <sequence>
+                                          <element minOccurs="0" name="3" type="decimal"/>
+                                          <element minOccurs="0" name="4" type="decimal"/>
+                                          <element minOccurs="0" name="5" type="decimal"/>
+                                          <element minOccurs="0" name="6" type="decimal"/>
+                                          <element minOccurs="0" name="7" type="decimal"/>
+                                          <element minOccurs="0" name="8" type="decimal"/>
+                                        </sequence>
+                                      </complexType>
+                                    </element>
+                                  </sequence>
+                                </complexType>
+                              </element>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="3">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                              <element minOccurs="0" name="4" type="decimal"/>
+                              <element minOccurs="0" name="5" type="decimal"/>
+                              <element minOccurs="0" name="6" type="decimal"/>
+                              <element minOccurs="0" name="7" type="decimal"/>
+                              <element minOccurs="0" name="8" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="3">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="string"/>
+                              <element minOccurs="0" name="5" type="string"/>
+                              <element minOccurs="0" name="6" type="decimal"/>
+                              <element minOccurs="0" name="7" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="2">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="int"/>
+                              <element minOccurs="0" name="5" type="string"/>
+                              <element minOccurs="0" name="6" type="decimal"/>
+                              <element minOccurs="0" name="7" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="3">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="string"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="4">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="5">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="string"/>
+                              <element minOccurs="0" name="4" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="6">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="7">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="8">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="9">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="10">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                  <element minOccurs="0" name="11">
+                    <complexType>
+                      <sequence>
+                        <element maxOccurs="unbounded" minOccurs="0">
+                          <complexType>
+                            <sequence>
+                              <element minOccurs="0" name="1" type="int"/>
+                              <element minOccurs="0" name="2" type="string"/>
+                              <element minOccurs="0" name="3" type="decimal"/>
+                            </sequence>
+                          </complexType>
+                        </element>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="4">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="int"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="string"/>
+                        <element minOccurs="0" name="4" type="decimal"/>
+                        <element minOccurs="0" name="5" type="decimal"/>
+                        <element minOccurs="0" name="6" type="decimal"/>
+                        <element minOccurs="0" name="7" type="decimal"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="5">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="1" type="string"/>
+                        <element minOccurs="0" name="2" type="string"/>
+                        <element minOccurs="0" name="3" type="decimal"/>
+                        <element minOccurs="0" name="4" type="decimal"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="6">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1" type="boolean"/>
+            <element minOccurs="0" name="2" type="string"/>
+            <element minOccurs="0" name="3" type="boolean"/>
+            <element minOccurs="0" name="4" type="string"/>
+            <element minOccurs="0" name="5" type="boolean"/>
+            <element minOccurs="0" name="6" type="string"/>
+            <element minOccurs="0" name="7" type="boolean"/>
+            <element minOccurs="0" name="8" type="string"/>
+            <element minOccurs="0" name="9" type="boolean"/>
+            <element minOccurs="0" name="10" type="string"/>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="7">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1">
+              <simpleType>
+                <restriction base="string">
+                  <enumeration value="ΝΑΙ"/>
+                  <enumeration value="ΟΧΙ"/>
+                  <enumeration value="ΔΑ"/>
+                </restriction>
+              </simpleType>
+            </element>
+            <element minOccurs="0" name="2" type="boolean"/>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="8">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1">
+              <complexType>
+                <sequence>
+                  <element maxOccurs="unbounded" minOccurs="0">
+                    <complexType>
+                      <sequence>
+                        <element minOccurs="0" name="Phases" type="string"/>
+                        <element minOccurs="0" name="Activities" type="string"/>
+                        <element minOccurs="0" name="Starting_month" type="decimal"/>
+                        <element minOccurs="0" name="Duration" type="decimal"/>
+                      </sequence>
+                    </complexType>
+                  </element>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="2">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1" type="string"/>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="9">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1" type="string"/>
+                </sequence>
+              </complexType>
+            </element>
+            <element minOccurs="0" name="2">
+              <complexType>
+                <sequence>
+                  <element minOccurs="0" name="1" type="string"/>
+                  <element minOccurs="0" name="2" type="string"/>
+                  <element minOccurs="0" name="3" type="string"/>
+                  <element minOccurs="0" name="4" type="string"/>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+      <element minOccurs="0" name="10">
+        <complexType>
+          <sequence>
+            <element minOccurs="0" name="1"/>
+          </sequence>
+        </complexType>
+      </element>
+    </sequence>
+  </complexType>
+  <complexType name="empty">
+    <sequence/>
+  </complexType>
+  <complexType name="person">
+    <sequence>
+      <element minOccurs="0" name="1" type="string"/>
+      <element minOccurs="0" name="2" type="string"/>
+      <element minOccurs="0" name="3" type="string"/>
+      <element minOccurs="0" name="4" type="string"/>
+      <element minOccurs="0" name="5" type="string"/>
+      <element minOccurs="0" name="6" type="string"/>
+      <element minOccurs="0" name="7" type="string"/>
+      <element minOccurs="0" name="8" type="string"/>
+    </sequence>
+  </complexType>
+  <complexType name="company">
+    <sequence>
+      <element minOccurs="0" name="1" type="int"/>
+      <element minOccurs="0" name="2" type="string"/>
+      <element minOccurs="0" name="3" type="string"/>
+      <element minOccurs="0" name="4" type="decimal"/>
+      <element minOccurs="0" name="5" type="decimal"/>
+      <element minOccurs="0" name="6" type="decimal"/>
+    </sequence>
+  </complexType>
+  <complexType name="companySize">
+    <sequence>
+      <element minOccurs="0" name="0" type="int"/>
+      <element minOccurs="0" name="1" type="decimal"/>
+      <element minOccurs="0" name="2" type="decimal"/>
+      <element minOccurs="0" name="3" type="decimal"/>
+    </sequence>
+  </complexType>
+  <complexType name="companyFinance">
+    <sequence>
+      <element minOccurs="0" name="0" type="int"/>
+      <element minOccurs="0" name="1" type="decimal"/>
+      <element minOccurs="0" name="2" type="decimal"/>
+      <element minOccurs="0" name="3" type="decimal"/>
+      <element minOccurs="0" name="4" type="decimal"/>
+      <element minOccurs="0" name="5" type="decimal"/>
+      <element minOccurs="0" name="6" type="decimal"/>
+    </sequence>
+  </complexType>
+</schema>
+
